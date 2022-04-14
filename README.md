@@ -13,7 +13,7 @@
   <br><br> -->
   <samp>
 I'm Wira Syafri. A Web Developer from Sumenep, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
-     <br><br>Contact me on <a href="https://t.me/wirasyafri" target="_blank">Telegram</a> or <a href="mailto:wirasyafri@gmail.com" target="_blank">Send an Email</a>
+     <br><br>Contact me on <a href="https://t.me/wirasyafri" target="_blank">Telegram</a> or <a href="mailto:wirasyafri1998@gmail.com?subject=I'm From Github!" target="_blank">Send an Email</a>
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=wirasyafri.wirasyafri" alt="Visitors Counter">
