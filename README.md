@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wirasyafri/wirasyafri/master/image/ship.gif" width="1584px" height="300px">
+  <img src="https://raw.githubusercontent.com/wirasyafri/wirasyafri/master/image/fanny.gif" width="1584px" height="300px">
+  <br>
+  <a href="https://aminoapps.com/c/mobile-legends-moba-amino/page/blog/skylark-edit/06kJ_6rGHkuje3XGVjoVPak4GwJZb28ZYla" target="_blank">Image Credit
+  </a>
+  <br>
  </p>
 
 <h1 align="center">Helo 👋, I'm Syafri Wira Wicaksana</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wirasyafri/wirasyafri/master/image/penguin.gif" width="80px">
-  <br><br>
+  <!-- <img src="https://raw.githubusercontent.com/wirasyafri/wirasyafri/master/image/penguin.gif" width="80px">
+  <br><br> -->
   <samp>
 I'm Wira Syafri. A Web Developer from Sumenep, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
      <br><br>Contact me on <a href="https://t.me/wirasyafri" target="_blank">Telegram</a> or <a href="mailto:wirasyafri@gmail.com" target="_blank">Send an Email</a>
